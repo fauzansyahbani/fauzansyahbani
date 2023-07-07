@@ -2,33 +2,27 @@
 
 **fauzansyahbani/fauzansyahbani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-# Hi there, I'm Vincent - aka [fauzan syabani dayat](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Vincent - aka [fauzan syabani dayat]
+(https://instagram.com/fauzansyhbn?igshid=MjEwN2IyYWYwYw==) 👋
 ## About me:
 - 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m currently implementing a vocational high school
 - 👯 I’m looking to collaborate as Data Automation and Analyst
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me:@fauzansyahbn
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMK Sumatra 40 Bandung](https://www.sman1kebumen.sch.id) | RPL | Kebumen `2021-2024`
-   - Chief of Rohkris
+#### 1. [SD 043 Cimuncang Bandung] | Bandung`2013-2018`
+
+   
+ #### 2. [SMK Sumatra 40 Bandung]| RPL | Bandung`2018-2021`
+
+
+ #### 2. [SMP N 61 Bandung] | Bandung`2021-2024`
+  
+  
 
  
 ### Languages and Tools:
