@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Vincent - aka [fauzan syabani dayat](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
 ## About me:
 - 🔭 I’m currently working as Cyber Security
 - 🌱 I’m currently learning Python and Javascript
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
+ #### 2. [SMK Sumatra 40 Bandung](https://www.sman1kebumen.sch.id) | RPL | Kebumen `2021-2024`
    - Chief of Rohkris
 
 ## Work Experience:
